@@ -19,15 +19,5 @@ Agrega los nombres y presiona "Sortear Amigo".
 
 ¡Disfruta del sorteo! 🎲
 
-💡 Mejoras Futuras
 
-🔹 Integración con bases de datos para guardar sorteos.
-🔹 Implementación de un sistema de notificaciones.
-🔹 Opción para compartir resultados por email o WhatsApp.
-
-📜 Licencia
-
-Este proyecto es de código abierto y puedes modificarlo libremente.
-
-📩 ¿Tienes sugerencias o encontraste un error? No dudes en abrir un issue o contribuir al proyecto. 🙌
 
